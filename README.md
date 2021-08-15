@@ -5,7 +5,6 @@
 - :telescope: I'm current working on [StudentLayer](https://github.com/WilliamsCJ/studentlayer)
 - :computer: I'm currently working in: **Go**, **Python**, **React**
 
----
 #### Connect with me!
 
 <a href src="https://www.linkedin.com/in/cjwilliams20/">
