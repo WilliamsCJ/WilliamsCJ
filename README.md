@@ -1,7 +1,5 @@
 # Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamsCJ.WilliamsCJ)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/CJ___Williams/)](https://twitter.com/CJ___Williams)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cjwilliams20)](https://www.linkedin.com/in/cjwilliams20)
 
 - :mortar_board: I'm currently studying CS @ University of St Andrews
 - :telescope: I'm current working on [StudentLayer](https://github.com/WilliamsCJ/studentlayer)
