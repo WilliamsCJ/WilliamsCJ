@@ -1,5 +1,4 @@
 # Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamsCJ.WilliamsCJ)
 
 - :mortar_board: I'm currently studying CS @ University of St Andrews
 - :telescope: I'm current working on [StudentLayer](https://github.com/WilliamsCJ/studentlayer)
