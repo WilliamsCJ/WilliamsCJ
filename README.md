@@ -1,8 +1,10 @@
 # Hi there 👋
 
-- :mortar_board: I'm currently studying CS @ University of St Andrews
-- :telescope: I'm current working on [StudentLayer](https://github.com/WilliamsCJ/studentlayer)
-- :computer: I'm currently working in: **Go**, **Python**, **React**
+I'm currently...
+
+- :mortar_board: studying CS @ University of St Andrews
+- :telescope: working on [StudentLayer](https://github.com/WilliamsCJ/studentlayer)
+- :computer: using **Go**, **Python** and **React**
 
 #### Connect with me!
 
